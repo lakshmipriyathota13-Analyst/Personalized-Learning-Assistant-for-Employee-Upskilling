@@ -9,6 +9,11 @@
   The application helps employees discover relevant learning opportunities while avoiding modules they have already completed.
   
   ---
+  ## 🚀 Live Demo
+
+Try the deployed application:
+
+https://personalized-learning-assistant-for-employee-upskilling-h9vngx.streamlit.app
   
   ## Business Problem
   
